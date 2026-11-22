@@ -1,0 +1,18 @@
+WEB PERSONAL — FRANCISCO MIGUEL MARTÍNEZ FERNÁNDEZ
+
+ARCHIVOS DE ESTA CARPETA
+- index.html: página principal.
+- style.css: diseño profesional negro y dorado.
+- script.js: menú y funciones de la página.
+- foto-profesional.jpg: fotografía del perfil.
+- cv.pdf: currículum descargable.
+
+INSTALACIÓN EN GITHUB
+1. Entra en el repositorio pacomiguel16-dev.github.io.
+2. Sube y reemplaza TODOS los archivos de esta carpeta en la raíz del repositorio.
+3. Comprueba que los nombres sean exactamente index.html, style.css, script.js, foto-profesional.jpg y cv.pdf.
+4. No subas esta carpeta contenedora: sube los archivos que hay dentro.
+5. Abre la web y pulsa Ctrl+F5 para recargar sin caché.
+
+NOTA
+La portada original de la novela y el vídeo tráiler no estaban disponibles entre los archivos recuperados en esta sesión. Para evitar enlaces rotos, esta versión muestra una cubierta tipográfica elegante y no incluye el reproductor del vídeo. Cuando se faciliten esos dos archivos, se pueden incorporar de nuevo.
